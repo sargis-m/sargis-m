@@ -18,10 +18,9 @@
 ---
 
 ### :woman_technologist: About Me :
-- :point_right: I'm a Fullstack Developer at Esterox
+- :point_right: I'm a Fullstack Developer from Armenia
 - :point_right: I'm developing full stack applications using Javascript, PHP and their frameworks
 - :point_right: I'm experienced in Laravel framework and MVC pattern
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/sargismosikyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sargismosikyan)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-m&layout=compact&theme=vision-friendly-dark)](https://github.com/sargis-m/github-readme-stats)
