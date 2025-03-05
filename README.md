@@ -15,25 +15,39 @@
 ---
 
 🚀 Sargis Mosikyan | Full Stack PHP Developer
+
 🔹 7+ years of experience in PHP, JavaScript, and modern web technologies
+
 🔹 Expertise in Laravel, YII2, Symfony, Vue.js, and Node.js
+
 🔹 Skilled in API development, database management, and performance optimization
+
 
 👋 Hi there! I'm a passionate Full Stack PHP Developer dedicated to crafting high-performance and scalable web applications. With a strong foundation in OOP, MVC architecture, and RESTful APIs, I enjoy solving complex challenges and delivering clean, maintainable code.
 
+
 🛠️ Tech Stack
+
 Backend: PHP (Laravel, Symfony, Phalcon, CodeIgniter), Node.js (Express.js)
+
 Frontend: JavaScript (Vue.js, Angular, Livewire, Tailwind CSS)
+
 Databases: MySQL, PostgreSQL, MongoDB, Elasticsearch
+
 DevOps & Tools: Docker, Git (GitHub/GitLab), Vagrant, Apache, Nginx
+
 📌 Notable Projects
+
 🚀 Quick Enroll – A secure insurance platform for agents and admins.
+
 💰 AmsterdamGold – A gold investment and storage platform.
+
 📚 ELeap LMS – Cloud-hosted learning management system.
 
+
 📬 Let's Connect!
-💻 GitHub: github.com/sargis-m
-📧 Email: sargismosikyan.dev@gmail.com
+
+📧 Email: sargis.mosikyan.up@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-m&layout=compact&theme=vision-friendly-dark)](https://github.com/sargis-m/github-readme-stats)
 
