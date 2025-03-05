@@ -1,53 +1,29 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-  <div id="badges">
-    <a href="https://www.github.com/sargis-m">
-      <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=sargis-m&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1 align="center">Hi 👋, I'm 🚀 Sargis Mosikyan</h1>
+<h3 align="center">A passionate Full Stack PHP Developer | convergent thinker</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 </div>
 
----
-
-🚀 Sargis Mosikyan | Full Stack PHP Developer
 
 🔹 7+ years of experience in PHP, JavaScript, and modern web technologies
-
 🔹 Expertise in Laravel, YII2, Symfony, Vue.js, and Node.js
-
 🔹 Skilled in API development, database management, and performance optimization
-
 
 👋 Hi there! I'm a passionate Full Stack PHP Developer dedicated to crafting high-performance and scalable web applications. With a strong foundation in OOP, MVC architecture, and RESTful APIs, I enjoy solving complex challenges and delivering clean, maintainable code.
 
-
 🛠️ Tech Stack
-
 Backend: PHP (Laravel, Symfony, Phalcon, CodeIgniter), Node.js (Express.js)
-
 Frontend: JavaScript (Vue.js, Angular, Livewire, Tailwind CSS)
-
 Databases: MySQL, PostgreSQL, MongoDB, Elasticsearch
-
 DevOps & Tools: Docker, Git (GitHub/GitLab), Vagrant, Apache, Nginx
-
 📌 Notable Projects
-
 🚀 Quick Enroll – A secure insurance platform for agents and admins.
-
 💰 AmsterdamGold – A gold investment and storage platform.
-
 📚 ELeap LMS – Cloud-hosted learning management system.
 
-
 📬 Let's Connect!
-
-📧 Email: sargis.mosikyan.up@gmail.com
+💻 GitHub: github.com/sargis-m
+📧 Email: sargismosikyan.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-m&layout=compact&theme=vision-friendly-dark)](https://github.com/sargis-m/github-readme-stats)
 
